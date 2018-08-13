@@ -9,6 +9,8 @@ public class DiagonalLayoutMainActivity extends AppCompatActivity {
 
     Toolbar toolbar;
 //    PlaybackState.CustomAction
+    
+//    dsg
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
